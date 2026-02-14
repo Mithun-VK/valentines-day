@@ -115,7 +115,7 @@ export default function YesPage() {
 
         <div style={styles.messageBox}>
           <p style={styles.message}>
-            "In a world full of choices, you chose us. And that makes all the difference." 💕
+            "In a world full of choices, you chose me. And that makes all the difference." 💕
           </p>
         </div>
 
